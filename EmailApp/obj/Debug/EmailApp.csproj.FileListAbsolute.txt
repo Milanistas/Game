@@ -1,0 +1,18 @@
+c:\users\ac-mi_000\documents\visual studio 2013\Projects\EmailApp\EmailApp\obj\Debug\EmailApp.Form1.resources
+c:\users\ac-mi_000\documents\visual studio 2013\Projects\EmailApp\EmailApp\obj\Debug\EmailApp.csproj.GenerateResource.Cache
+C:\Users\ac-mi_000\Documents\Visual Studio 2013\Projects\EmailApp\EmailApp\obj\Debug\EmailApp.csprojResolveAssemblyReference.cache
+C:\Users\ac-mi_000\Documents\Visual Studio 2013\Projects\EmailApp\EmailApp\bin\Debug\EmailApp.exe.config
+C:\Users\ac-mi_000\Documents\Visual Studio 2013\Projects\EmailApp\EmailApp\bin\Debug\EmailApp.exe
+C:\Users\ac-mi_000\Documents\Visual Studio 2013\Projects\EmailApp\EmailApp\bin\Debug\EmailApp.pdb
+C:\Users\ac-mi_000\Documents\Visual Studio 2013\Projects\EmailApp\EmailApp\obj\Debug\EmailApp.Properties.Resources.resources
+C:\Users\ac-mi_000\Documents\Visual Studio 2013\Projects\EmailApp\EmailApp\obj\Debug\EmailApp.exe
+C:\Users\ac-mi_000\Documents\Visual Studio 2013\Projects\EmailApp\EmailApp\obj\Debug\EmailApp.pdb
+C:\Users\ac-mi_000\Documents\Game\EmailApp\bin\Debug\EmailApp.exe.config
+C:\Users\ac-mi_000\Documents\Game\EmailApp\obj\Debug\EmailApp.exe
+C:\Users\ac-mi_000\Documents\Game\EmailApp\obj\Debug\EmailApp.pdb
+C:\Users\ac-mi_000\Documents\Game\EmailApp\bin\Debug\EmailApp.exe
+C:\Users\ac-mi_000\Documents\Game\EmailApp\bin\Debug\EmailApp.pdb
+C:\Users\ac-mi_000\Documents\Game\EmailApp\obj\Debug\EmailApp.csprojResolveAssemblyReference.cache
+C:\Users\ac-mi_000\Documents\Game\EmailApp\obj\Debug\EmailApp.Form1.resources
+C:\Users\ac-mi_000\Documents\Game\EmailApp\obj\Debug\EmailApp.Properties.Resources.resources
+C:\Users\ac-mi_000\Documents\Game\EmailApp\obj\Debug\EmailApp.csproj.GenerateResource.Cache
